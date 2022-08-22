@@ -1,12 +1,10 @@
 # Beginner-Front-End_sha
-www.patika.dev eğitimlerdeki alıştırmaların bir kısmı bu repoda olacaktır. 
-Özellikle Bootstrap ve Javascriptle alakalı olanlar.
+www.patika.dev practices are in this repo. 
 
 ## Bootstrap
-*work in progress
-
-
+Linkedin Clone
+Instagram Clone
 
 
 ## Javascript
-*work in progress
+Simple javascript practices
